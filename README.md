@@ -64,8 +64,8 @@ Year over Year:
 # Sales_Revenue Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload](https://github.com/rajsvarma1492/Power_Bi/blob/main/Sales_dashboard.png?raw=true)
+![Dashboard_upload](https://github.com/rajsvarma1492/chocolate_sales/blob/main/Sales_dashboard.png?raw=true)
 
 # Sales_Person_Revenue Report Snapshot (Power BI DESKTOP)
 
-![Dashboard_upload](https://github.com/rajsvarma1492/Power_Bi/blob/main/Sales_person_dashboard.png?raw=true)
+![Dashboard_upload](https://github.com/rajsvarma1492/chocolate_sales/blob/main/Sales_person_dashboard.png?raw=true)
